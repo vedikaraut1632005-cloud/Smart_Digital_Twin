@@ -15,13 +15,11 @@ and an Isolation Forest model to detect machine faults.
 - Pandas, NumPy
 
 ## How to Run Locally
-```bash
+bash
 pip install -r requirements.txt
 streamlit run digital_twin.py
 
-<<<<<<< HEAD
 ###  Deploy this App
 Click the button below to deploy instantly:
 [![Deploy on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=vedikaraut1632005-cloud/Smart_Digital_Twin&branch=master&mainFile=digital_twin.py)
-=======
->>>>>>> e61f29174c33a80467063881e5bbcffab559f0c8
+
