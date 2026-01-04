@@ -23,3 +23,7 @@ streamlit run digital_twin.py
 Click the button below to deploy instantly:
 [![Deploy on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=vedikaraut1632005-cloud/Smart_Digital_Twin&branch=master&mainFile=digital_twin.py)
 
+## Live App Demo
+
+Click here to open the app (No login required):  
+https://smartdigitaltwin-3vdehn7yxa9uw3ug6fukdh.streamlit.app/
